@@ -37,4 +37,4 @@ Students will incrementally develop this image processing GUI throughout the sem
 ### 📦 Required dependencies:
 
 ```bash
-pip install numpy pandas matplotlib PyQt6 scikit-learn tensorflow pytorch opencv-python opencv-contrib-python scipy fastai kornia
+pip install numpy pandas matplotlib PyQt6 scikit-learn tensorflow torch torchvision torchaudio opencv-python opencv-contrib-python scipy fastai kornia
